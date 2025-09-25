@@ -97,3 +97,9 @@ def user_name(sentence):
             d[word]=counter
     return d
 print(user_name("how r u"))
+
+#whitespace
+import string
+print("noel moses nwonded")
+space=string.whitespace
+print("is found at google,trygoogle it")
